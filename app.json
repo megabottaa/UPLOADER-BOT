@@ -16,7 +16,7 @@
   ],
   "success_url": "https://t.me/Uploader_X_bot",
   "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/UPLOADER-BOT",
+  "repository": "https://github.com/megabottaa/UPLOADER-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
