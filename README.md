@@ -31,6 +31,7 @@ heroku/python
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/megabottaa/UPLOADER-BOT)
 
+https://heroku.com/deploy?template=https://github.com/megabottaa/UPLOADER-BOT
 ## BOT COMMANDS
 
 * start - 👻 Check I'm alive or dead
