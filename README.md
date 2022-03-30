@@ -1,4 +1,6 @@
-## [UPLOADER-BOT](https://t.me/MTURLxADAM_bot)
+## Telegram Bot Link
+     https://t.me/MTURLxADAM_bot
+     Bot Name : UPLOADER-BOT
 ---
 
 Telegram RoBot to Upload Links.
